@@ -1,0 +1,44 @@
+body {
+    background: gray;
+}
+
+header {
+    background: white;
+}
+
+#footer {
+    background: white;
+}
+
+#title {
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#biografria {
+    margin-top: 30px !important;
+}
+
+#carouselExampleIndicators {
+    margin-bottom: 30px;
+}
+
+#Canciones {
+    margin-top: 50px;
+}
+
+.fw-normal {
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+.card-header {
+    background: #202321;
+    color: white;
+}
